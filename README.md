@@ -9,7 +9,7 @@ Test Set Accuracy: The accuracy of the model on the test dataset is reported as 
 
 Additional Details:
 
-Dataset: The credit card transaction data used for training and testing the model is available in the repository.
+Dataset: The credit card transaction data used for training and testing the model link is 'https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud'.
 Important Considerations:
 
 Imbalanced Data: Credit card fraud detection datasets are typically highly imbalanced, with a large number of legitimate transactions and only a small fraction of fraudulent ones. In such cases, accuracy alone may not be the best metric for evaluating model performance. Other metrics like precision, recall, F1-score, and the area under the ROC curve (AUC-ROC) are often more informative.
